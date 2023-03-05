@@ -1,0 +1,7 @@
+.subckt RPOT 1 2 3
+R1 1 2 {value*ratio}
+R2 2 3 {value*(1-ratio)}
+* below are default parameters, which are required by some simulators
+.param value=1k
+.param ratio=1
+.ends
