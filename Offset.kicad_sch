@@ -1029,6 +1029,10 @@
     (uuid f1e1c598-a7a6-4f47-b88a-c29668ec96c2)
   )
 
+  (label "INV" (at 142.24 92.71 0) (fields_autoplaced)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 0532815a-2fa1-4976-8c0c-e629e5c6c7f1)
+  )
   (label "TRIM" (at 127 88.9 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 62de73c5-f93a-4d2b-907a-b6ad6489d091)
